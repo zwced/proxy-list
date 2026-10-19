@@ -1,5 +1,1 @@
-> check proxies.txt
-
-disclaimer: 
-these proxies were scraped from different parts of the internet, some are dead, some are not.<br>
-you will have to use your own tool to validate them.
+a list of proxies used for botted accounts, use if you want 
